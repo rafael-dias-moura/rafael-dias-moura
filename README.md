@@ -9,6 +9,8 @@
 - ▶️ I regulary post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL** -->
+- 👀 I’m interested in apprenticeship
+- 🌱 I’m currently learning  javascript, Html, css , git, node.js, react, python, for now.
 
 - 📫 How to reach me **dias416@gmail.com**
 
