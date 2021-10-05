@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @rafael-dias-moura
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in apprenticeship
+- 🌱 I’m currently learning  javascript, Html, css , git, node.js, react, python, for now.
+- 📫 How to reach me @rafael-dias-moura
 
-<!---
-rafael-dias-moura/rafael-dias-moura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
