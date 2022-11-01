@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @rafael-dias-moura
 - 👀 I’m interested in apprenticeship.
-- 🌱 I’m currently learning  javascript, Html, css , git, node.js, reactjs, react native for now.
+- 🌱 I’m currently learning  HTML5, CSS3, JavaScript, TypeScript, NodeJS, ReactJS, ReactNative,Figma for now.
 - 📫 How to reach me @rafael-dias-moura
 
 
